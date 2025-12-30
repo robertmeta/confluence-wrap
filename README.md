@@ -1,5 +1,9 @@
 # confluence.el - Emacs Interface for Confluence CLI
 
+<p align="center">
+  <img src="logo.png" alt="confluence-wrap logo" width="200">
+</p>
+
 An Emacs package providing a full-featured interface to the Confluence CLI tool, with enhanced accessibility support for Emacspeak users.
 
 ## Features
